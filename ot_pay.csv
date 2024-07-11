@@ -1,0 +1,7 @@
+day,non-night shift,night shift
+normal,1.25,1.375
+rest day,1.69,1.859
+snwd,1.69,1.859
+snwd & rest day,1.95,2.145
+regular holiday,2.6,2.86
+regular holiday & rest day,3.38,3.718
