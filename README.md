@@ -1,4 +1,4 @@
-# Weekly Payroll
+# weekly-payroll
 
 Weekly Payroll is an R-based application that calculates weekly payroll for employees, considering varying day types, overtime, and night shift hours. It uses CSV files to manage daily rates, overtime pay, and computed payroll data.
 
